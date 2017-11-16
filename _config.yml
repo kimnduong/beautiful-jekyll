@@ -44,7 +44,7 @@ avatar: "/img/IMG_3404.JPG"
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
 # navbar-col: "orange"
- navbar-img: "/img/Helsinki-Oct-2017.JPG"
+ navbar-img: "/img/Helsinki-Oct-2017.jpg"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
